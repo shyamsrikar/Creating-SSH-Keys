@@ -2,4 +2,6 @@
 - SSH (Secure Shell) keys provide a secure way to authenticate with Git servers (e.g., GitHub, GitLab) without typing your username and password every time. They are more secure and convenient than HTTPS authentication, especially for push/pull operations.
 # 🔍 Step-by-Step Explanation
 ## 🔎 Step 1: Check for Existing SSH Keys
-'''ls -al ~/.ssh'''
+```
+ls -al ~/.ssh
+```
